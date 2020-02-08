@@ -3,7 +3,7 @@ package com.ejemploapp2.ejemplofragments1
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-
+//EJEMPLO SIMPLE DE COMO FUNCIONAN LOS FRAGMENT DE LAS APLICACIONES
 class MainActivity : AppCompatActivity() {
 
 

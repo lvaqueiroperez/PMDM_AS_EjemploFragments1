@@ -13,6 +13,7 @@ import android.widget.TextView
  */
 class FirstFragment : Fragment() {
     //CREAMOS UN LATEINIT, QUE ES UNA VARIABLE A LA QUE SE LE PONDRÁ UN VALOR MÁS TARDE
+    //YA QUE KOTLIN NO PERMITE CREAR VARIABLES VACÍAS SIN PONER ESTE MODIFICADOR
     lateinit var textView: TextView
 
     override fun onCreateView(
